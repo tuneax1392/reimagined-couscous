@@ -1,0 +1,11 @@
+{
+  "mod": "Thu, 21 Sep 2023 21:10:09 GMT",
+  "etag": "\"395fc9f48b5b9a57a60757e1a69342e6\"",
+  "cache_control": "public, max-age=30",
+  "blake2_256_nominal": "25169ce295785b2f6dcc4b1211b497b71013cdbcfa3b4dc5710c95cbcee2ad57",
+  "blake2_256": "25169ce295785b2f6dcc4b1211b497b71013cdbcfa3b4dc5710c95cbcee2ad57",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "size": 227212,
+  "mtime_ns": 1734492693812177600,
+  "refresh_ns": 1734492742277478200
+}
